@@ -1,0 +1,9 @@
+.contenedor{
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.tarjeta{
+  margin: 10px auto;
+  width: 19% !important;
+}
